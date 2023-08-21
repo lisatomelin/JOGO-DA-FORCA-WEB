@@ -28,7 +28,7 @@ let tentativas = 6;
             categoria:"FRUTAS" 
         },
         palavra005 = {
-            nome:'ARAÇA',
+            nome:'ARACA',
             categoria:"FRUTAS" 
         },
         palavra006 = {
